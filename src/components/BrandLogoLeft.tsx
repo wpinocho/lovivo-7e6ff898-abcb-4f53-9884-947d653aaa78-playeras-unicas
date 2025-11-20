@@ -6,7 +6,9 @@ export const BrandLogoLeft = () => {
 
   if (!logos) {
     return (
-      <h1 className="text-xl font-bold text-black ml-2">OnlineStore</h1>
+      <h1 className="text-2xl font-bold ml-2">
+        <span className="text-gradient">Playeras Style</span>
+      </h1>
     )
   }
 
@@ -14,7 +16,9 @@ export const BrandLogoLeft = () => {
 
   if (!mainLogoUrl) {
     return (
-      <h1 className="text-xl font-bold text-black ml-2">OnlineStore</h1>
+      <h1 className="text-2xl font-bold ml-2">
+        <span className="text-gradient">Playeras Style</span>
+      </h1>
     )
   }
 
