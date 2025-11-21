@@ -65,7 +65,7 @@ export const IndexUI = ({ logic }: IndexUIProps) => {
             
             <div className="relative hidden md:block">
               <img 
-                src="https://ptgmltivisbtvmoxwnhd.supabase.co/storage/v1/object/public/product-images/7e6ff898-abcb-4f53-9884-947d653aaa78/hero-tshirts.jpg"
+                src="https://ptgmltivisbtvmoxwnhd.supabase.co/storage/v1/object/public/product-images/7e6ff898-abcb-4f53-9884-947d653aaa78/hero-tshirts-blue-purple.jpg"
                 alt="Colección de playeras"
                 className="rounded-2xl shadow-2xl"
               />
